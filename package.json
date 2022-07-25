@@ -1,0 +1,30 @@
+{
+  "name": "internshipcourse_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techquarter/InternshipCourse_3.git"
+  },
+  "keywords": [],
+  "author": "{shmig} <{asmitko@loanpal.com}>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techquarter/InternshipCourse_3/issues"
+  },
+  "homepage": "https://github.com/techquarter/InternshipCourse_3#readme",
+  "devDependencies": {
+    "@types/uuid": "^8.3.4",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "got": "11.8.5",
+    "uuid": "^8.3.2"
+  }
+}

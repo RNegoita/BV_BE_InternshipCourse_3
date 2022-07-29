@@ -15,6 +15,17 @@ Compile the code & add a compiler watcher.
 Run the code straight from the \*.ts files using ts-node.
 `ts-node ./src/index.ts`
 
+# Curriculum
+
+1. Typescript ()
+
+- setup
+- compile
+- run the code
+- types
+- classes
+- reiterate all JS theory
+
 # Homework
 
 Create a new Node project using Typescript to save info regarding students and their exam grades in the terminal:

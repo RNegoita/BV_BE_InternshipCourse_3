@@ -17,7 +17,7 @@ Run the code straight from the \*.ts files using ts-node.
 
 # Curriculum
 
-1. Typescript ()
+1. Typescript
    - setup
    - compile
    - run the code

@@ -18,13 +18,12 @@ Run the code straight from the \*.ts files using ts-node.
 # Curriculum
 
 1. Typescript ()
-
-- setup
-- compile
-- run the code
-- types
-- classes
-- reiterate all JS theory
+   - setup
+   - compile
+   - run the code
+   - types
+   - classes
+   - reiterate all JS theory
 
 # Homework
 
